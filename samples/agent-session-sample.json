@@ -1,0 +1,6 @@
+{
+  "user_goal": "帮我生成 3 条中文儿童短视频，主题是小动物，适合 3-5 岁，同时生成语音和字幕。",
+  "expected_mode": "batch_job_mode",
+  "requires_human_approval": true,
+  "pipeline_mode": "mock"
+}
